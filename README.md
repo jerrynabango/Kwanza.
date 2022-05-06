@@ -9,7 +9,7 @@ The webpage can be viewed though the following browsers.
 * Firefox
 * Opera Mini
 ## Live link to site:
-https://jerrynabango.github.io/
+https://jerrynabango.github.io/Kwanza
 ## Technologies Used:
 * HTML and CSS.
 * JAVASCRIPT
