@@ -1,0 +1,154 @@
+body {
+    text-align: center;
+    font-family: 'Oswald', serif;
+  }
+  
+  .port-text {
+    border: white;
+    border-width: 5px;
+  }
+  
+  .col-md-3 .port-text {
+    width: 70%;
+    height: 80%;
+    padding: 5% 8%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotateY(90deg);
+    transform-origin: 50%;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-width: 5px;
+    opacity: 1;
+    font-weight: bolder;
+    font-size: 30px;
+    transition: all 0.4s ease-in;
+  
+  }
+  
+  .col-md-3:hover .port-text {
+    transform: translate(-50%, -50%) rotateY(0deg);
+    opacity: 1;
+    border: white;
+    border-width: 5px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .content-header {
+    font-weight: bold;
+    padding: 30px;
+  }
+  
+  .jumbotron {
+    background-image: url(../assets/backgrounds/soft.jpg);
+    height: 900px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+  }
+  
+  .jumbotron-text {
+    margin-top: 150px;
+  }
+  
+  .jumbotron-text h1 {
+    font-size: 50px;
+  }
+  
+  .jumbotron-text img {
+    padding: 50px;
+  }
+  .about-sec {
+    padding: 100px;
+  }
+  
+  .services-sec {
+    background-image: url(../assets/backgrounds/edn.jpg);
+    color: black;
+    padding: 100px;
+    background-repeat: no-repeat;
+  }
+  
+  .projects-sec {
+    padding: 100px;
+    text-align: center;
+  }
+  .interests-sec{
+    padding: 100px;
+    height: 400px;
+    background-image: url(../assets/backgrounds/fifa.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .interests-text {
+    display: inline;
+  }
+  
+  .development-text {
+    display: none;
+  }
+  
+  .product-text {
+    display: none;
+  }
+  
+  .content-body {
+    justify-content: center;
+  }
+  
+  .col-3 {
+    margin: 3px;
+    display: flex;
+  }
+  
+  /*CONTACT*/
+  .contact-sec {
+    padding: 100px;
+    height: 600px;
+    background-image: url(../assets/backgrounds/imej.jpg);
+    color: aliceblue;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .form-inline {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+  }
+  
+  .form-control {
+    background: transparent;
+    border-color: white;
+    border-width: 2px;
+    color: white;
+  }
+  
+  .sr-only {
+    color: white;
+  }
+  
+  /*FOOTER*/
+  .footer-sec {
+    padding: 100px;
+  }
+  
+  .social-ul {
+    text-align: center;
+    padding-left: 0;
+  }
+  
+  .social-li {
+    display: inline-block;
+    list-style: none;
+  }
