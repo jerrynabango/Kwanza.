@@ -9,7 +9,7 @@ The webpage can be viewed though the following browsers.
 * Firefox
 * Opera Mini
 ## Live link to site:
-https://jerrynabango.github.io/
+https://jerrynabango.github.io/Kwanza./
 ## Technologies Used:
 * HTML and CSS.
 * JAVASCRIPT
@@ -26,7 +26,7 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so freely without any restrictions.
 ##                 THANK YOU
 
-   lincense Copyright (c)2020.All rights reserved.
+   lincense Copyright (c)2022.All rights reserved.
     P.o Box: 999666,Nairobi,Kenya.
 
 
